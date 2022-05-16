@@ -29,7 +29,7 @@ func main() {
 			return err
 		}
 
-		line := 0
+		line := 1
 		scanner := bufio.NewScanner(f)
 		first := true
 
