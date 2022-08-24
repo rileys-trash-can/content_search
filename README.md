@@ -13,4 +13,4 @@ usage: `content_search <query>`
 
 ---
 
-yes, I know go isn't support to be used with makefiles but idc
+yes, I know go isn't suppost to be used with makefiles but idc
